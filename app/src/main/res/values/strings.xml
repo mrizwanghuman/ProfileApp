@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Profile Application</string>
+    <string name="nameMine">Muhammad Rizwan</string>
+    <string name="fromCity">Atlanta GA</string>
+    <string name="Skills">Skills</string>
+    <string name="backEnd">Back End</string>
+    <string name="frontEnd">Front End</string>
+
+</resources>
